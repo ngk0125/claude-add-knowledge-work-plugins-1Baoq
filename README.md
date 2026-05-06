@@ -14,44 +14,59 @@ A curated collection of **187 skills** for Claude Code, focused on knowledge wor
 
 ## Skill Categories
 
-### Research & Analysis
-`account-research` · `analyze` · `competitive-brief` · `competitive-intelligence` · `contact-research` · `customer-research` · `data-context-extractor` · `explore-data` · `knowledge-synthesis` · `research-synthesis` · `synthesize-research` · `user-research`
+### Research & Analysis (13)
+`account-research` · `analyze` · `competitive-brief` · `competitive-intelligence` · `contact-research` · `customer-research` · `data-context-extractor` · `explore-data` · `knowledge-synthesis` · `research-synthesis` · `search` · `synthesize-research` · `user-research`
 
-### Writing & Content
-`brief` · `content-creation` · `doc-coauthoring` · `documentation` · `draft-content` · `draft-outreach` · `draft-response` · `email-sequence` · `internal-comms` · `kb-article` · `process-doc` · `scribe` · `ux-copy` · `write-spec`
+### Writing & Content (17)
+`brief` · `content-creation` · `doc-coauthoring` · `documentation` · `draft-content` · `draft-outreach` · `draft-response` · `email-sequence` · `guideline-generation` · `internal-comms` · `kb-article` · `process-doc` · `scribe` · `seo-audit` · `stakeholder-update` · `ux-copy` · `write-spec`
 
-### Sales & CRM
-`call-prep` · `call-summary` · `campaign-plan` · `close-management` · `comp-analysis` · `compose-outreach` · `enrich-lead` · `forecast` · `pipeline-review` · `prospect` · `search-strategy` · `sequence-load`
+### Sales & CRM (13)
+`call-prep` · `call-summary` · `campaign-plan` · `close-management` · `comp-analysis` · `compose-outreach` · `create-an-asset` · `enrich-lead` · `forecast` · `pipeline-review` · `prospect` · `search-strategy` · `sequence-load`
 
-### Design & Brand
-`accessibility-review` · `brand-guidelines` · `brand-review` · `brand-voice-enforcement` · `canvas-design` · `design-critique` · `design-handoff` · `design-system` · `discover-brand` · `frontend-design` · `theme-factory` · `ui-toolkit-web`
+### Design & Brand (14)
+`accessibility-review` · `algorithmic-art` · `brand-guidelines` · `brand-review` · `brand-voice-enforcement` · `canvas-design` · `create-viz` · `design-critique` · `design-handoff` · `design-system` · `discover-brand` · `frontend-design` · `theme-factory` · `ui-toolkit-web`
 
-### Engineering & Development
-`architecture` · `build-dashboard` · `build-mcp-app` · `build-mcp-server` · `code-review` · `debug` · `deploy-checklist` · `incident-response` · `mcp-builder` · `sql-queries` · `system-design` · `tech-debt` · `testing-strategy` · `webapp-testing`
+### Engineering & Development (19)
+`architecture` · `build-dashboard` · `build-mcp-app` · `build-mcp-server` · `build-mcpb` · `code-review` · `debug` · `deploy-checklist` · `incident-response` · `mcp-builder` · `playground` · `runbook` · `sql-queries` · `system-design` · `tech-debt` · `testing-strategy` · `web-artifacts-builder` · `webapp-testing` · `write-query`
 
-### Claude Code / Plugin Development
-`agent-development` · `command-development` · `hook-development` · `mcp-integration` · `plugin-settings` · `plugin-structure` · `skill-creator` · `skill-development` · `writing-hookify-rules`
+### Claude Code / Plugin Development (16)
+`agent-development` · `claude-api` · `claude-automation-recommender` · `claude-md-improver` · `claude-opus-4-5-migration` · `command-development` · `hook-development` · `mcp-integration` · `plugin-settings` · `plugin-structure` · `session-report` · `skill-creator` · `skill-development` · `source-management` · `template-skill` · `writing-hookify-rules`
 
-### Zoom Integration
-`build-zoom-bot` · `build-zoom-contact-center-app` · `build-zoom-meeting-app` · `build-zoom-meeting-sdk-app` · `build-zoom-phone-integration` · `build-zoom-rest-api-app` · `build-zoom-team-chat-app` · `build-zoom-video-sdk-app` · `build-zoom-virtual-agent` · `choose-zoom-approach` · `debug-zoom` · `plan-zoom-integration` · `setup-zoom-mcp` · `setup-zoom-oauth` · `setup-zoom-webhooks` · `setup-zoom-websockets` · `zoom-mcp` · `zoom-oauth` · `zoom-rtms`
+### Zoom Integration (27)
+`build-zoom-bot` · `build-zoom-contact-center-app` · `build-zoom-meeting-app` · `build-zoom-meeting-sdk-app` · `build-zoom-phone-integration` · `build-zoom-rest-api-app` · `build-zoom-team-chat-app` · `build-zoom-video-sdk-app` · `build-zoom-virtual-agent` · `choose-zoom-approach` · `debug-zoom` · `debug-zoom-integration` · `design-mcp-workflow` · `plan-zoom-integration` · `plan-zoom-product` · `probe-sdk` · `rivet-sdk` · `setup-zoom-mcp` · `setup-zoom-oauth` · `setup-zoom-webhooks` · `setup-zoom-websockets` · `zoom-apps-sdk` · `zoom-cobrowse-sdk` · `zoom-general` · `zoom-mcp` · `zoom-oauth` · `zoom-rtms`
 
-### Compliance & Legal
-`audit-support` · `compliance-check` · `compliance-tracking` · `legal-response` · `legal-risk-assessment` · `review-contract` · `risk-assessment` · `sox-testing` · `triage-nda` · `vendor-check` · `vendor-review`
+### Compliance & Legal (12)
+`audit-support` · `compliance-check` · `compliance-tracking` · `legal-response` · `legal-risk-assessment` · `review-contract` · `risk-assessment` · `signature-request` · `sox-testing` · `triage-nda` · `vendor-check` · `vendor-review`
 
-### HR & People Ops
-`capacity-plan` · `comp-analysis` · `draft-offer` · `interview-prep` · `onboarding` · `org-planning` · `people-report` · `performance-review` · `recruiting-pipeline`
+### HR & People Ops (9)
+`capacity-plan` · `draft-offer` · `interview-prep` · `onboarding` · `org-planning` · `people-report` · `performance-review` · `policy-lookup` · `recruiting-pipeline`
 
-### Finance & Reporting
-`financial-statements` · `forecast` · `metrics-review` · `reconciliation` · `status-report` · `variance-analysis`
+### Finance & Reporting (8)
+`financial-statements` · `journal-entry` · `journal-entry-prep` · `metrics-review` · `performance-report` · `reconciliation` · `status-report` · `variance-analysis`
 
-### Productivity & Planning
-`daily-briefing` · `digest` · `journal-entry` · `meeting-briefing` · `memory-management` · `sprint-planning` · `standup` · `task-management` · `weekly-prep-brief`
+### Productivity & Planning (12)
+`change-request` · `daily-briefing` · `digest` · `meeting-briefing` · `memory-management` · `process-optimization` · `sprint-planning` · `standup` · `start` · `task-management` · `update` · `weekly-prep-brief`
 
-### Data & Science
-`data-visualization` · `instrument-data-to-allotrope` · `nextflow-development` · `scvi-tools` · `single-cell-rna-qc` · `statistical-analysis` · `validate-data`
+### Product & Strategy (2)
+`product-brainstorming` · `roadmap-update`
 
-### Document Handling
+### Data & Science (9)
+`data-visualization` · `instrument-data-to-allotrope` · `math-olympiad` · `nextflow-development` · `scientific-problem-selection` · `scvi-tools` · `single-cell-rna-qc` · `statistical-analysis` · `validate-data`
+
+### Document Handling (5)
 `docx` · `pdf` · `pptx` · `view-pdf` · `xlsx`
+
+### Communication & Messaging (5)
+`access` · `configure` · `slack-gif-creator` · `slack-messaging` · `slack-search`
+
+### Support & Customer Success (2)
+`customer-escalation` · `ticket-triage`
+
+### Maker & Hardware (2)
+`cardputer-buddy` · `m5-onboard`
+
+### CoWork Plugins (2)
+`cowork-plugin-customizer` · `create-cowork-plugin`
 
 ## Structure
 
